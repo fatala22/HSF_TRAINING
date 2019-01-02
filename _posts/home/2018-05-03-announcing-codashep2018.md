@@ -2,6 +2,7 @@
 layout: post
 title: Announcing the CoDaS-HEP 2018 school at Princeton University
 featured-img: princeton-campus-small
+categories: home
 ---
 
 The second school on tools, techniques and methods for Computational
@@ -44,4 +45,3 @@ regarding acceptance and available travel support by 25 May.
 Further details will be added in the next weeks.
 
   For further information, please write codas-hep@googlegroups.com
-

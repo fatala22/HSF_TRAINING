@@ -2,6 +2,7 @@
 layout: post
 title: Announcing the ESC18 school in Bertinoro, Italy
 featured-img: esc18-bertinoro
+categories: home
 ---
 
 
@@ -64,8 +65,3 @@ The deadline for application is: **16 September 2018**.
 
 Mauro Morandin
 On behalf of the International Scientific Committee
-
-
-
-
-
