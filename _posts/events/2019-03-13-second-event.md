@@ -2,7 +2,7 @@
 layout: post
 title: Latin American School
 categories: event
-#featured-img:
+featured-img:
 ---
 Welcome to the 10th CERN Latin-American School of High-Energy Physics (CLASHEP2019).
 
