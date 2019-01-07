@@ -1,9 +1,14 @@
 ---
 layout: post
 title: Latin American School
+source: https://indico.cern.ch/event/763013/
 categories: event
 featured-img:
 ---
+# [Click here for the source page](https://indico.cern.ch/event/763013/)
+
+![](\assets\img\posts\Latin_school_Banner.png)
+
 Welcome to the 10th CERN Latin-American School of High-Energy Physics (CLASHEP2019).
 
 The 2019 School will take place from 13 to 26 March 2019 in Villa General Belgrano, Córdoba Province, Argentina.
@@ -19,3 +24,6 @@ The CERN Latin-American School of High-Energy Physics is targeted particularly a
 Demand for attendance at the School exceeds the number of available places, so a competitive selection is made based on information provided on the application form and the letter of recommendation from the student's professor or supervisor.
 
 The School is open to qualified candidates of any nationality. Sponsorship may be available to cover the fees, and in some cases also the travel expenses, of selected Latin-American students where it is not possible to obtain support from other sources.
+
+
+![](\assets\img\posts\Latin_school_Banner_Sponsor2.png)
