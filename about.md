@@ -1,35 +1,35 @@
 ---
 layout: page
-title: Research Software Training
+title: About
 permalink: /about/
 ---
 
-The 
-**Framework for Integrated Research Software Training in High Energy Physics (FIRST-HEP)** 
+The
+**Framework for Integrated Research Software Training in High Energy Physics (FIRST-HEP)**
 project aims to develop a community framework for software training
 to prepare the scientific and engineering workforce needed for the
 computing challenges of HEP experiments.
 
 High energy physics (HEP) research aims to make discoveries which provide
 a deeper understanding of the fundamental building blocks of nature
-and their interactions. 
-The most successful theory to date is known as the 
-["Standard Model"](https://en.wikipedia.org/wiki/Standard_Model) 
+and their interactions.
+The most successful theory to date is known as the
+["Standard Model"](https://en.wikipedia.org/wiki/Standard_Model)
 of particle physics.
 Although it describes an impressive number of experimental observations
-to date, it is known to be an incomplete description of nature. 
-The search for what lies "Beyond the Standard Model" is the 
+to date, it is known to be an incomplete description of nature.
+The search for what lies "Beyond the Standard Model" is the
 [scientific driver](https://www.usparticlephysics.org/) for many ongoing
 experiments as well as the design of the large, next-generation
 facilities such as the
 [High-Luminosity LHC (HL-LHC)](https://home.cern/topics/high-luminosity-lhc)
-at [CERN](https://home.cern/) and the 
-[Long-Baseline Neutrino Facility (LBNF)](https://lbnf.fnal.gov/) at 
+at [CERN](https://home.cern/) and the
+[Long-Baseline Neutrino Facility (LBNF)](https://lbnf.fnal.gov/) at
 [Fermilab](http://fnal.gov/).
-Doing science with these facilities typically requires the development of 
-**sophisticated software** capable of analyzing the enormous samples 
-experimental data collected, and **people** are the key to developing this 
-software. To be successful they require a mix of deep physics 
+Doing science with these facilities typically requires the development of
+**sophisticated software** capable of analyzing the enormous samples
+experimental data collected, and **people** are the key to developing this
+software. To be successful they require a mix of deep physics
 domain knowledge *and* advanced software skills.
 
 Today software-related training support for the HEP workforce is
@@ -52,7 +52,7 @@ nature of existing training activities also does not provide a clear
 progression path from basic to more advanced skills. Researchers
 often try to “run before they can walk”.
 
-How can such training be improved? One key insight is the need to think of 
+How can such training be improved? One key insight is the need to think of
 training not as a set of individual, disconnected activities, but as part of a
 larger community framework, as shown here:
 
@@ -61,7 +61,5 @@ larger community framework, as shown here:
 The goals of the FIRST-HEP project are:
 
   * To work with the HEP community to build a consensus around this vision and a collaborative framework among national and international entities for implementing the vision
-  * To develop a Carpentries-style introductory HEP software training curriculum, and a community of instructors, which is seen nationally and internationally as the entrance point into the overall training vision 
+  * To develop a Carpentries-style introductory HEP software training curriculum, and a community of instructors, which is seen nationally and internationally as the entrance point into the overall training vision
   * To develop a more advanced training school within the U.S. for the relevant software skills (building on the existing [Computational and Data Science for High Energy Physics (CoDaS-HEP)](http://codas-hep.org/) school) as well as an international federation of similar advanced training schools in HEP and beyond
-
-

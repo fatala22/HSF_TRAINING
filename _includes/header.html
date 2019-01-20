@@ -1,26 +1,20 @@
-<header class="header" itemscope itemtype="http://schema.org/SiteNavigationElement" aria-label="Main navigation">
-  <div class="container">
-    <div class="header__inner">
-      <a class="header__logo" href="{{ '/' | relative_url }}">
-        <div class="header__logo--container">
-          HSF-Training 
-        </div>
-      </a>
-      <nav class="header__links">
-        <div class="container header__links-wrapper">
-          <a class="header__link" href="{{ '/about' | relative_url }}" itemprop="url"><span itemprop="name">About</span></a>
-          <a class="header__link" href="{{ '/team' | relative_url }}" itemprop="url"><span itemprop="name">Team</span></a>
-          <a class="header__link" href="{{ '/events' | relative_url }}" itemprop="url"><span itemprop="name">Events</span></a>
-          <a class="header__link" href="{{ '/contact' | relative_url }}" itemprop="url"><span itemprop="name">Contact</span></a>
-          <a class="header__link" href="{{ '/test' | relative_url }}" itemprop="url"><span itemprop="name">Test</span></a>
+<header class="border-bottom-thick px-2 clearfix">
+  <div class="left sm-width-full py-1 mt-1 mt-lg-0">
+    <a class="align-middle link-primary text-accent" href="{{ site.baseurl }}/">
+      {{ site.title }}
+    </a>
+  </div>
+  <div class="right sm-width-full">
+    <ul class="list-reset mt-lg-1 mb-2 mb-lg-1">
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+        <li class="inline-block">
+          <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="{{ my_page.url | prepend: site.baseurl }}">
+            {{ my_page.title }}
           </a>
-        </div>
-      </nav>
-      <div class="header__toggle">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
+        </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
   </div>
 </header>
