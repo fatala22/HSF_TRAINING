@@ -1,27 +1,18 @@
 ---
 layout: page
 title: Training Events
+permalink: /events/
+category_name: event
 ---
 
 
+<h2>Coming soon.... </h2>
+<ul>
+  {% for post in site.categories.event limit:5 %}
+  <li>
+    <a href={{post.source}}>{{post.title}}</a>
+    <p>{{post.date|date_to_long_string }}</p>
+  </li>
 
-<main class="site__content">
-  <section class="blog">
-
-    <div class="container">
-      <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-        <h2>Coming soon.... </h2>
-      <ul>
-        {% for post in site.categories.event limit:5 %}
-            <li>
-               <a href={{post.source}}>{{post.title}}</a>
-               <p>{{post.date|date_to_long_string }}</p>
-            </li>
-
-          {% endfor %}
-      </ul>
-
-      </div>
-    </div>
-  </section>
-</main>
+  {% endfor %}
+</ul>
