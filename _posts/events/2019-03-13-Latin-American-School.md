@@ -5,7 +5,7 @@ source: https://indico.cern.ch/event/763013/
 categories: event
 featured-img:
 ---
-# [Click here for the source page](https://indico.cern.ch/event/763013/)
+# [Click here for more information](https://indico.cern.ch/event/763013/)
 
  ![]({{site.baseurl}}/assets/img/posts/Latin_school_Banner.png)
 
